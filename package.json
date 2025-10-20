@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Javascript practice using drop-down menu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slingdee/drop-down-menu.git"
+  },
+  "author": "slingdee <daktaridavie@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slingdee/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/slingdee/drop-down-menu#readme"
+}
