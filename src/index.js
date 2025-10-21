@@ -1,1 +1,7 @@
-console.log("Hello Davie");
+import "./styles.css"
+
+function initDropdowns({trigger = "click"}){
+
+}
+
+

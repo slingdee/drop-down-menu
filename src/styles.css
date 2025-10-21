@@ -3,3 +3,24 @@
   margin: 0;
   box-sizing: border-box;
 }
+.dropdown{
+  position: relative;
+  display: inline-block;
+  margin-left: 10px ;
+}
+.dropdown-menu{
+  position: absolute;
+  list-style: none;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.dropdown-menu.visible{
+  display: block;
+}
+.dropdown-menu li{
+  padding: 0.5rem 1rem;
+}
+.dropdown-menu li:hover{
+  background-color: #f3f3f3;
+}
